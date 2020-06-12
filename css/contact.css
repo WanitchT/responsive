@@ -51,3 +51,8 @@ body{
   border: none;
   cursor: pointer;
 }
+
+
+.active a {
+  color: #0072ff !important;
+}

@@ -42,3 +42,7 @@
   .bg-primary {
     background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
   }
+
+  .active a {
+    color: #0072ff !important;
+  }
